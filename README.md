@@ -1,5 +1,7 @@
 **Some image functions**
 
+[![Build Status](https://secure.travis-ci.org/ReclaimSoftware/rs-image.png)](http://travis-ci.org/ReclaimSoftware/rs-image)
+
 
 ```coffee
 {subbmp} = require 'rs-image'
